@@ -1,0 +1,164 @@
+.edit-icon {
+  margin-left: 10px;
+  font-size: 15px;
+}
+
+.add-another-btn {
+  border: 2px solid #5C99C7;
+  color: #5C99C7;
+  font-size: 14px;
+  line-height: 1.8em;
+}
+
+.add-another-btn:hover {
+  border: 2px solid #5C99C7;
+  background: #5C99C7;
+  color: white;
+}
+
+#child_nav_dashboard:focus {
+  background-color: rgb(230,247,255);
+  font-size: 15px;
+  font-family: 'Nunito';
+  color: Black;
+}
+
+#text_main_nav {
+  font-size: 15px;
+  font-family: 'Nunito';
+}
+
+#btn_action {
+  font-size: 15px;
+  font-family: 'ABeeZee';
+  border-radius: 15px;
+}
+
+#btn_action_checked {
+  background-color: green;
+}
+
+#table_modifies {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#card_modifies {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+#btn_doc {
+  margin-right: 10px;
+  font-size: 13px;
+  font-family: 'ABeeZee';
+  height: 40px;
+  width: 100px;
+}
+
+#text_doc {
+  text-align: center;
+  font-size: 25px;
+  font-family: 'ABeeZee';
+}
+
+#btn_doc_view {
+  font-size: 13px;
+  font-family: 'ABeeZee';
+  background-color: rgb(188,180,180);
+}
+
+#link_view_doc {
+  font-size: 13px;
+  font-family: 'ABeeZee';
+  color: Black;
+}
+
+#img_doc {
+  height: 250px;
+  width: 300px;
+}
+
+#thumnail_doc {
+  margin-right: 10px;
+  margin-left: 10px;
+  border-color: black;
+  border: groove;
+}
+
+#search_store_doc {
+  border-radius: 10px;
+  height: 30px;
+  background-color: rgb(233,237,239);
+  width: 550px;
+}
+
+#nav_store_doc {
+  font-size: 15px;
+  font-family: 'ABeeZee';
+  color: black;
+}
+
+#nav_store_doc_main {
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+#category_doc {
+  font-size: 15px;
+  font-family: 'ABeeZee';
+  height: 30px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+#btn_status {
+  background-color: green;
+  border-radius: 5px;
+}
+
+#column_content {
+  margin-top: 50PX;
+}
+
+#table_cell_text {
+  font-family: 'Nunito';
+  font-size: 15px;
+  color: Black;
+}
+
+#size_icon {
+  font-size: 25px;
+}
+
+#img_logo {
+  height: auto;
+  width: 70px;
+  border-radius: 50px;
+}
+
+#listitem_saveDoc {
+  text-align: left;
+  font-family: 'Nunito';
+  font-size: 14px;
+}
+
+#TabLink_saveDoc {
+  font-family: 'Nunito';
+  font-size: 15px;
+  color: Black;
+}
+
+#btn_Edit_doc {
+  width: 40px;
+  font-size: 13px;
+}
+
+#child_nav_dashboard {
+}
+
+.table-header {
+  background-color: #e6f2ff;
+}
+
