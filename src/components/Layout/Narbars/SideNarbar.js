@@ -10,7 +10,7 @@ const SideNarbar = (props) => {
         )    
     }
 
-    const list = [  {title : 'TÀI LIỆU', href : '/',icon:'icon ion-document'},
+    const list = [  {title : 'TÀI LIỆU', href : '/managedoc',icon:'icon ion-document'},
                     {title : 'SỰ KIỆN', href : '/', icon:'icon ion-android-calendar'}, 
                     {title : 'NGƯỜI DÙNG', href : '/', icon:'icon ion-ios-people-outline'},
                     {title : 'THỐNG KÊ', href : '/', icon:'la la-bar-chart'}]

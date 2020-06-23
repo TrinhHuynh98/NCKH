@@ -1,0 +1,7 @@
+    <div className="row">
+        {
+            Data.map( (v, i) => (
+                <Item src={v.src} category={v.category}/>
+            ))
+        }
+    </div> 

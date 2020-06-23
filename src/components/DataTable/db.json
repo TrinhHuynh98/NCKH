@@ -1,6 +1,9 @@
-[{
-    "STT": "1",
-    "Ngày": "16/05/2020",
-    "Tên Văn Bản": "Báo Cáo",
-    "Trạng Thái": "1"
-}]
+[   
+    { "id": 1,"date": "20/2/02/2020", "namedoc": "Báo Cáo", "nameapplier": "Trinh Huynh" , "src": "Test.pdf"},
+    { "id": 2,"date": "20/2/02/2020", "namedoc": "Báo Cáo 1", "nameapplier": "Hứa Thư" , "src": "Test.pdf"},
+    { "id": 3,"date": "20/2/02/2020", "namedoc": "Báo Cáo 2", "nameapplier": "Văn Kiệt" , "src": "Test.pdf"},
+    { "id": 4,"date": "20/2/02/2020", "namedoc": "Báo Cáo 3", "nameapplier": "Chiến Thành" , "src": "Test.pdf"},
+    { "id": 5,"date": "20/2/02/2020", "namedoc": "Báo Cáo 4", "nameapplier": "Minh Nhựt" , "src": "Test.pdf"},
+    { "id": 6,"date": "20/2/02/2020", "namedoc": "Báo Cáo 5", "nameapplier": "Phúc Hậu" , "src": "Test.pdf"}
+
+   ]

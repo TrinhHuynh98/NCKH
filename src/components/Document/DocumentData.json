@@ -1,0 +1,7 @@
+[
+    {"id":1, "src": "/images/a0_3.png", "category": "Biên Bản A", "tag": "Biên Bản"},
+    {"id":2, "src": "/images/a0_3.png", "category": "Biên Bản B", "tag": "Biên Bản"},
+    {"id":3, "src": "/images/a0_3.png", "category": "Báo Cáo A", "tag": "Báo Cáo"},
+    {"id":4, "src": "/images/a0_3.png", "category": "Kế Hoạch A", "tag": "Kế Hoạch"},
+    {"id":5, "src": "/images/a0_3.png", "category": "Kế Hoạch B", "tag": "Kế Hoạch"}
+]

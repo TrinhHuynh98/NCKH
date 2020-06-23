@@ -85,6 +85,7 @@
   margin-left: 10px;
   border-color: black;
   border: groove;
+  border-radius: 5px;
 }
 
 #search_store_doc {
@@ -115,7 +116,7 @@
 
 #btn_status {
   background-color: green;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 #column_content {
@@ -160,5 +161,46 @@
 
 .table-header {
   background-color: #e6f2ff;
+}
+
+#btn_status_cancel {
+  background-color: red;
+  margin-left: 7px;
+  border-radius: 10px;
+}
+
+#img_resize {
+  height: 450px;
+  width: 450px;
+  margin-left: 50px;
+}
+
+#btn_checked {
+  margin-left: 150px;
+  margin-top: 20px;
+  border-radius: 25px;
+  border-color: black;
+}
+
+#btn_cancel {
+}
+
+#btn_cancel {
+  border-radius: 25px;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: red;
+  border-color: black;
+}
+
+#form_check {
+  border: double;
+}
+
+#input_note {
+  height: 30px;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 

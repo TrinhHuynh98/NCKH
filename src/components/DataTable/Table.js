@@ -11,7 +11,6 @@ const Table = (props) => {
         </div>
     );
 }
-
 const TableHeader = (props) => {
     const {headers} = props;
     return(
